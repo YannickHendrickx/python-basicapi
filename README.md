@@ -18,24 +18,10 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
   <h3 align="center">Basis API project: CoderDojo ninja management system</h3>
-
   <p align="center">
     Backend of a basic student (ninja's) management system made by Yannick Hendrickx.
     <br />
@@ -126,11 +112,11 @@ This is the full documentation of the fastapi that can be found here : [swagger 
 <!-- Future features -->
 ## Future features
 
-- [] Give frontend proper style
+- [ ] Give frontend proper style
     - [ ] css
     - [ ] seperated cards
-- [] Add grades/completed milestones
-- [] Add login system
+- [ ] Add grades/completed milestones
+- [ ] Add login system
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
