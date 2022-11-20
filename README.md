@@ -42,21 +42,21 @@
       </ul>
     </li>
     <li>
-      <a href="#GET request to get all students">GET request to get all students</a>
+      <a href="#GET-request-to-get-all-students">GET request to get all students</a>
     </li>
     <li>
-      <a href="#POST request to add a new student">POST request to add a new student</a>
+      <a href="#POST-request-to-add-a-new-student">POST request to add a new student</a>
     </li>
     <li>
-      <a href="#GET request to get all subjects">GET request to get all subjects</a>
+      <a href="#GET-request-to-get-all-subjects">GET request to get all subjects</a>
     </li>
     <li>
-      <a href="#POST request to add a new subject">POST request to add a new subject</a>
+      <a href="#POST-request-to-add-a-new-subject">POST request to add a new subject</a>
     </li>
     <li>
-      <a href="#openAPI documentation">openAPI documentation</a>
+      <a href="#openAPI-documentation">openAPI documentation</a>
     </li>
-    <li><a href="#Future features">Future features</a></li>
+    <li><a href="#Future-features">Future features</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
