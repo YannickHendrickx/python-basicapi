@@ -42,18 +42,22 @@
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
+      <a href="#GET request to get all students">GET request to get all students</a>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
+    <li>
+      <a href="#POST request to add a new student">POST request to add a new student</a>
+    </li>
+    <li>
+      <a href="#GET request to get all subjects">GET request to get all subjects</a>
+    </li>
+    <li>
+      <a href="#POST request to add a new subject">POST request to add a new subject</a>
+    </li>
+    <li>
+      <a href="#openAPI documentation">openAPI documentation</a>
+    </li>
+    <li><a href="#Future features">Future features</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -61,8 +65,6 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 For my API development project I decided to develop de basics for a system to manage students during our CoderDojo training sessions. In this application you will be able to add new students, assign them subjects so you can easily keep track of what tracks students have followed. The frotend of this application already has the ability to do the following:
 
@@ -94,12 +96,12 @@ This is a get request sent with Postman to the api, same method is used on the f
 This is a post request sent with Postman to the api, same method is used on the frontend. A new student will be added to the database.
 
 <!-- GET REQUEST for all subject -->
-## GET request to get all students
+## GET request to get all subjects
 ![Get all subjects][get-allsubjects]
 This is a get request sent with Postman to the api, same method is used on the frontend. An unordered list of all subjects will be returned.
 
-<!-- POST REQUEST for all students -->
-## POST request to add a new student
+<!-- POST REQUEST for new subject -->
+## POST request to add a new subject
 ![Post new subject][post-subject]
 This is a post request sent with Postman to the api, this method is not yet used on the frontend. A new subejct will be added to the specified student.
 
